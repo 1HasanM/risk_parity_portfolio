@@ -16,3 +16,5 @@ Piyasada yüksek oynaklığa sahip hisselerin ağırlığını düşürerek deng
 Yatırımcılara daha az riskli portföyler sunar.
 
 Portföy optimizasyon tekniklerine giriş sunar.
+
+<img width="1365" height="733" alt="Ekran görüntüsü 2025-07-16 010110" src="https://github.com/user-attachments/assets/1e87dba6-5137-49bf-a41e-0263b8c7fc5a" />
